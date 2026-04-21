@@ -9,8 +9,8 @@
 * **Knowledge Base:** 维护 [jansonwang.com](https://jansonwang.com) 数字花园。
 
 ### 📺 关注我的动态
-* **YouTube:** [Janson Lab 简森实验室](你的链接) - 记录硬核技术的诞生过程。
-* **Blog:** [jansonwang.tech](https://jansonwang.tech) - 沉淀技术思考与实验笔记。
+* **YouTube:** [Janson Lab 简森实验室](https://www.youtube.com/@JansonWang) - 记录硬核技术的诞生过程。
+* **Blog:** [jansonwang.com](https://jansonwang.com) - 沉淀技术思考与实验笔记。
 
 ---
 > **"Stay hungry, stay hardcore."** > 致力于通过实践拆解复杂系统，重塑技术直觉。
